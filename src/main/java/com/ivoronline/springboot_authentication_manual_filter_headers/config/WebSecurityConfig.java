@@ -1,6 +1,5 @@
 package com.ivoronline.springboot_authentication_manual_filter_headers.config;
 
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity;
